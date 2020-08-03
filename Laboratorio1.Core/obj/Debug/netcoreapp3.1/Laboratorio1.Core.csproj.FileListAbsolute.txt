@@ -1,0 +1,27 @@
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Core\bin\Debug\netcoreapp3.1\Laboratorio1.Core.deps.json
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Core\bin\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Core\bin\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.AssemblyInfo.cs
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Core\bin\Debug\netcoreapp3.1\Laboratorio1.Core.deps.json
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Core\bin\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Core\bin\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.AssemblyInfoInputs.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.AssemblyInfo.cs
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.csproj.CoreCompileInputs.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.csprojAssemblyReference.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Core\bin\Debug\netcoreapp3.1\Laboratorio1.Core.deps.json
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Core\bin\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Core\bin\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.csprojAssemblyReference.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.AssemblyInfoInputs.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.AssemblyInfo.cs
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.csproj.CoreCompileInputs.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Core\obj\Debug\netcoreapp3.1\Laboratorio1.Core.pdb

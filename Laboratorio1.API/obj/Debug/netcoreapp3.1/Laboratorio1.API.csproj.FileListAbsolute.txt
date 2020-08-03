@@ -1,0 +1,207 @@
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.exe
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.AssemblyInfo.cs
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.RazorTargetAssemblyInfo.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\staticwebassets\Laboratorio1.API.StaticWebAssets.Manifest.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\staticwebassets\Laboratorio1.API.StaticWebAssets.xml
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.csproj.CopyComplete
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.deps.json
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.runtimeconfig.json
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.runtimeconfig.dev.json
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.pdb
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Data.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Services.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Data.pdb
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Services.pdb
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.pdb
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.genruntimeconfig.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.AssemblyInfoInputs.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.AssemblyInfo.cs
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.csproj.CoreCompileInputs.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.exe
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.deps.json
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.runtimeconfig.json
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.runtimeconfig.dev.json
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Data.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Services.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Data.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Services.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.csprojAssemblyReference.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.RazorTargetAssemblyInfo.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.csproj.CopyComplete
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\staticwebassets\Laboratorio1.API.StaticWebAssets.Manifest.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\staticwebassets\Laboratorio1.API.StaticWebAssets.xml
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.genruntimeconfig.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.csprojAssemblyReference.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.AssemblyInfoInputs.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.AssemblyInfo.cs
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.csproj.CoreCompileInputs.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.pdb
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.exe
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.deps.json
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.runtimeconfig.json
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.runtimeconfig.dev.json
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.API.pdb
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Data.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Services.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Data.pdb
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Services.pdb
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\bin\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.RazorTargetAssemblyInfo.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.csproj.CopyComplete
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\staticwebassets\Laboratorio1.API.StaticWebAssets.Manifest.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\staticwebassets\Laboratorio1.API.StaticWebAssets.xml
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.API\obj\Debug\netcoreapp3.1\Laboratorio1.API.genruntimeconfig.cache

@@ -1,0 +1,45 @@
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.deps.json
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.AssemblyInfo.cs
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.runtimeconfig.json
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.runtimeconfig.dev.json
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.genruntimeconfig.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.pdb
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.pdb
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\David\Desktop\Visual Project\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.csproj.CopyComplete
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.deps.json
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.runtimeconfig.json
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.runtimeconfig.dev.json
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.csprojAssemblyReference.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.AssemblyInfoInputs.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.AssemblyInfo.cs
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.csproj.CoreCompileInputs.cache
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.csproj.CopyComplete
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.dll
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.pdb
+C:\Users\ItsJaan\Desktop\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.genruntimeconfig.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.csprojAssemblyReference.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.AssemblyInfoInputs.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.AssemblyInfo.cs
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.csproj.CoreCompileInputs.cache
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.pdb
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.deps.json
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.runtimeconfig.json
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.runtimeconfig.dev.json
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Data.pdb
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Core.dll
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\bin\Debug\netcoreapp3.1\Laboratorio1.Core.pdb
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.csproj.CopyComplete
+C:\Users\ItsJaan\Documents\Docs Importantes\CLSS\2020\TRI III 2020\Apps Vanguardia\Laboratorio1\Laboratorio1.Data\obj\Debug\netcoreapp3.1\Laboratorio1.Data.genruntimeconfig.cache
